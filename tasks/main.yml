@@ -1,0 +1,6 @@
+---
+- name: install virt-who
+  yum: name=virt-who state=present
+
+- name: configure virt-who
+  template: src=virt-who.j2 dest=/etc/sysconfig/virt-who owner=root group=wheel mode=0644

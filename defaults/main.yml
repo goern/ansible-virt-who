@@ -1,0 +1,5 @@
+organization: "myOrg"
+server: "sat6.myOrg.example.com"
+username: "sat-admin"
+password: "password"
+lifecycle_environment: "Library"

@@ -1,0 +1,21 @@
+galaxy_info:
+  author: Christoph Görn
+  description: Sets up virt-who on RHEL
+  company: Red Hat
+
+  license: GPLv3
+
+  min_ansible_version: 1.9
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+
+  galaxy_tags:
+    - rhel
+    - redhat
+    - virtwho
+    - subscriptionmanager
+
+dependencies: []
