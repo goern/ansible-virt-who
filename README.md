@@ -1,8 +1,11 @@
 goern.virt-who
-============
+==============
+
+[![Build Status](https://travis-ci.org/goern/ansible-virt-who.svg?branch=master)](https://travis-ci.org/goern/ansible-virt-who)
 
 This will configure virt-who on Red Hat Enterprise Linux 7. By now it is only
 capable of configuring virt-who for VMware in conjunction with Red Hat Satellite 6.
+
 
 Requirements
 ------------
